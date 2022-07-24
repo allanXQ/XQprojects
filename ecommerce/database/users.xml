@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<usercontainer>
+    <user>
+        <username>jonte</username>
+        <firstname>john</firstname>
+        <lastname>doe</lastname>
+        <email>johndoe#jon.com</email>
+        <phone>0798765432</phone>
+        <address>asdf</address>
+        <password>asdfgh</password>
+    </user>
+
+ <user>
+ <username>qwert</username>
+ <firstname>qwerty</firstname>
+ <lastname>qwerty</lastname>
+ <email>qerty@qwerty.com</email>
+ <phone>0798765435</phone>
+ <address>h</address>
+ <password>qwert</password>
+ </user>
+ <user><username>qwerty2</username><firstname>qwerty2</firstname><lastname>qwerty2</lastname><email>qerty2@qwerty.com</email><phone>07987654351</phone><address>home</address><password>d8578edf8458ce06fbc5bb76a58c5ca4</password></user><user><username>qwerty3</username><firstname>qwerty3</firstname><lastname>qwerty3</lastname><email>qwerty3@qwerty.com</email><phone>07987654352</phone><address>home</address><password>a384b6463fc216a5f8ecb6670f86456a</password></user></usercontainer>

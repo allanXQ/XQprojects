@@ -1,0 +1,86 @@
+ <?xml-stylesheet type="text/xsl" href="../xslt/products.xsl"?>
+<productscontainer>
+    <product id="1">
+        <name>Ace Elec Wireless Bluetooth Hifi Stereo Headsets</name>
+        <units>20</units>
+        <priceperunit>800</priceperunit>
+        <description>
+        F9-5C Up-graded Bluetooth 5.0 Wireless headphones Touch Control
+        </description>
+        <image>http://projects/freelance/ecommerce/images/ace.jpg</image>
+    </product>
+
+    <product id="2">
+    <name>Generic P47 Bluetooth Wireless Headphones</name>
+    <units>20</units>
+        <priceperunit>500</priceperunit>
+    <description>
+    1.Bluetooth 5.01.Wireless connection, frees you from twisted or kinked cable. 
+     </description>
+     <image>http://projects/freelance/ecommerce/images/p47.jpg</image>
+    </product>
+
+    <product id="3">
+    <name>Generic In.pods 13 Wireless Bluetooth Earphone Pods</name>
+    <units>20</units>
+        <priceperunit>700</priceperunit>
+    <description>
+In.pods 13 TW.S Macaron Color Wireless Earphones Bluetooth V5.0 Pop UP Touch Control.
+    </description>
+         <image>http://projects/freelance/ecommerce/images/inpods.jpg</image>
+    </product>
+
+    <product id="4">
+    <name>Generic Y30 5.0 True Wireless Headphones Mini Headphone</name>
+    <units>20</units>
+        <priceperunit>850</priceperunit>
+    <description>
+The earphone is designed to fit the auricle of the human body.</description>
+         <image>http://projects/freelance/ecommerce/images/y30.jpg</image>
+    </product>
+
+    <product id="5">
+    <name>Gen Generic Mini Wireless Blueooth Earbuds</name>
+    <units>20</units>
+        <priceperunit>490</priceperunit>
+    <description>
+1.1, high quality2.The bluetooth master control chip.3.
+    </description>
+    <image>http://projects/freelance/ecommerce/images/gen.jpg</image>
+   </product>
+
+   <product id="6">
+    <name>Generic Wireless Earphone Mini Bluetooth 5.0 Headset</name>
+    <units>20</units>
+        <priceperunit>450</priceperunit>
+    <description>
+Channel stereo.Use style ear type.Whether single and double ears unilateral handsfree    </description>
+    <image>http://projects/freelance/ecommerce/images/mini.jpg</image>
+   </product>
+
+   <product id="7">
+    <name>Generic Fingerprint Touch Bluetooth 5.0 Earphones Wireless</name>
+    <units>20</units>
+        <priceperunit>750</priceperunit>
+    <description>
+BT Version: BT5.0. Transmitting Distance: 10m/33ft.BT Protocol: HFP, A2DP, HSP, AVCRP                            
+</description>
+    <image>http://projects/freelance/ecommerce/images/finger.jpg</image>
+   </product>
+
+   <product id="8">
+    <name>Generic S109 Wireless Headset Supra-aural </name>
+    <units>20</units>
+        <priceperunit>850</priceperunit>
+    <description>
+    Lightweight, comfortable to wear handsfree. For sport.
+    </description>
+    <image>http://projects/freelance/ecommerce/images/s109.jpg</image>
+
+       </product>
+
+   
+
+
+
+</productscontainer>

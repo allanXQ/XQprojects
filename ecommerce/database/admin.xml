@@ -1,0 +1,12 @@
+<admincontainer>
+    <admin>
+        <adminname>jonte</adminname>
+        <firstname>john</firstname>
+        <lastname>doe</lastname>
+        <email>johndoe#jon.com</email>
+        <phone>0798765432</phone>
+        <address>asdf</address>
+        <password>asdfgh</password>
+    </admin>
+
+</admincontainer>

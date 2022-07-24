@@ -1,0 +1,84 @@
+.grid-container{
+  display: grid;
+  column-gap: 5px
+}
+.board{
+  grid-column-start: 1;
+  grid-column-end: 12;
+  background-color: rgb(62, 188, 195);
+  margin-bottom:3%;
+  margin-left:5%;
+  margin-top: 7%;
+}
+
+.player{
+  position: absolute;
+  top:20%;
+  grid-column-start: 1;
+  grid-column-end: 12;
+  background-color: rgb(189, 242, 172);
+  margin-left:50%
+}
+
+.player-tag{
+  padding-left:40%
+}
+
+.status{
+  margin-left:25%;
+}
+
+.dice{
+  padding-left: 25%
+}
+
+#board{
+  width:50px
+}
+#startform{
+  position: absolute;
+  top:20%;
+  left:50%;
+  grid-column-start: 6;
+  grid-column-end: 12;
+  background-color: rgb(189, 242, 172);
+  background-color: #07fa3c;
+
+}
+
+button{
+  width:10vw;
+  height:10vh
+}
+
+input{
+  margin-top: 10px;
+  height: 10vh;
+}
+
+#person1{
+  padding: 0%;
+  margin: 0%;
+  background-color: blue;
+  position: absolute;
+  width:15px
+}
+#person2{
+  background-color: rgb(219, 111, 9);
+  position: absolute;
+  padding: 0%;
+  margin-left: 1%;
+  width:15px;
+  color:'white'
+}
+
+#table-canvas{
+  display: flex;
+}
+
+#myCanvas{
+  display:'none';
+  margin-left: 200px;
+  margin-top: 100px;
+  position: absolute;
+}

@@ -1,0 +1,10 @@
+<cartcontainer>
+<cart>
+    <username>jonte</username>
+    <productname>glasses</productname>
+    <units>10</units>
+    <priceperunit>200</priceperunit>
+    <address>home<address>
+    <status>unpaid</status>
+</cart>
+</cartcontainer>

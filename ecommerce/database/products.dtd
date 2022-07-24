@@ -1,0 +1,12 @@
+<!DOCTYPE note
+[
+<!ELEMENT productscontainer (products)>
+<!ELEMENT product (name, units,priceperunit,description,image>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT units (#PCDATA)>
+<!ELEMENT priceperunit (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+
+]>

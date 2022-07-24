@@ -1,0 +1,13 @@
+<!DOCTYPE note
+[
+<!ELEMENT orderscontainer (orders)>
+<!ELEMENT orders (username, productname, units,priceperunit,address,status)>
+
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT productname (#PCDATA)>
+<!ELEMENT units (#PCDATA)>
+<!ELEMENT priceperunit (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
+
+]>

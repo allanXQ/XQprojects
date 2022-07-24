@@ -1,0 +1,15 @@
+<!DOCTYPE note
+[
+<!ELEMENT usercontainer (orders)>
+<!ELEMENT user (username, firstname, lastname,email,phone,address,password)>
+
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+
+
+]>

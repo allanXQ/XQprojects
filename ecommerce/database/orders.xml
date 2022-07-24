@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/orders.xsl"?>
+<orderscontainer>
+<order>
+    <username>jonte</username>
+    <productname>glasses</productname>
+    <units>10</units>
+    <priceperunit>200</priceperunit>
+    <address>home</address>
+    <status>unpaid</status>
+</order>
+<order>
+    <username>jonte</username>
+    <productname>glasses</productname>
+    <units>10</units>
+    <priceperunit>200</priceperunit>
+    <address>home</address>
+    <status>unpaid</status>
+</order>
+<order><productid>2 </productid><username>qwert</username><amount>12</amount><priceperunit>500
+</priceperunit><address>asd</address><status>unpaid</status></order></orderscontainer>
